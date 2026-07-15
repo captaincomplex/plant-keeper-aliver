@@ -1,4 +1,4 @@
-# Plant Kepper-Aliver
+# Plant Keeper-Aliver
 
 A personal care guide for the plants around the house — watering, light, and
 feeding schedules in one place so nothing gets forgotten.
