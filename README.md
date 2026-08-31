@@ -5,4 +5,4 @@ feeding schedules in one place so nothing gets forgotten.
 
 **Status:** Early / outline — details to be added
 
-Part of the [slop.aero](https://github.com/captaincomplex/captaincomplex.github.io) projects site.
+Part of the [xpdr.aero](https://github.com/captaincomplex/captaincomplex.github.io) projects site.
